@@ -1,0 +1,17 @@
+
+The total number of task that has been generated and tracked is 5
+The number of users registered with task_manager is 2
+Details for user admin
+------------------------------------------
+Total number of task assigned to admin is 2
+The percentage of the total number of task assigned to the user is 40.0 
+The percentage of task assigned to the user that is completed is 0.0
+The percentage of task asssigned to the user that is still not completed is 100.0
+The percentage of task assigned to the user that is not complete and overdue is 100.0
+Details for user david
+------------------------------------------
+Total number of task assigned to david is 3
+The percentage of the total number of task assigned to the user is 60.0 
+The percentage of task assigned to the user that is completed is 66.67
+The percentage of task asssigned to the user that is still not completed is 33.33
+The percentage of task assigned to the user that is not complete and overdue is 33.33
